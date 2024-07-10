@@ -20,17 +20,18 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+40) 321 654 876",
+    description: "(+91) 8086 328 265",
   },
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: "youremail@gmail.com",
+    description: "jithinphilip347@gmail.com",
   },
   {
     icon: <FaMapMarkerAlt />,
     title: "Address",
-    description: "Code Corner, Tech Town 123579",
+    description: 
+    "Poovannikunnel h, Panathady p.o, Balanthode, Kasaragod , 671532 ",
   },
 ];
 
